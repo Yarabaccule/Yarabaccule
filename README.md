@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Estudante de Full stack pela EBAC
-
-Sou estudante de full stack pela ebac, analista e desenvolvedora e sistemas, e cientista de dados graças as faculdades!
+Sou estudante de Frontend, analista e desenvolvedora e sistemas, e cientista de dados graças as faculdades!
 
 
 - 🔭 I’m currently working on Web sites
